@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T11:38:03.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" version="14.7.7" etag="lyyWPMcfBnAxOlEMWEa4" type="github"><diagram id="ffN0SNIZQph5B3WK5DC0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-26T11:42:21.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="ptHEquMbDVBsmDiHsA4B" version="14.7.7" type="github">
+  <diagram id="ffN0SNIZQph5B3WK5DC0" name="Page-1">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ryuziJFEdA7QynmR6Dcf-1" value="Santam Corporate Site" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ryuziJFEdA7QynmR6Dcf-2" value="Quick Quote" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="85" y="255" width="125" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="ryuziJFEdA7QynmR6Dcf-3" value="Broker Website" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ryuziJFEdA7QynmR6Dcf-4" value="Quick Quote" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="85" y="455" width="125" height="95" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
