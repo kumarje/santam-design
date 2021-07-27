@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T08:31:41.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="5a_p7AYQTRxp43X8CyTA" version="14.9.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-27T08:49:30.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="y_aumKpfp9R6wCaEzXiP" version="14.9.2" type="github" pages="3">
   <diagram id="ffN0SNIZQph5B3WK5DC0" name="HLD">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j-ah97_GjZsTCLa0xpfU" name="Deployment">
-    <mxGraphModel dx="2031" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="3WzcstOI2L3zIeHda1PU-0" />
         <mxCell id="3WzcstOI2L3zIeHda1PU-1" parent="3WzcstOI2L3zIeHda1PU-0" />
@@ -280,6 +280,33 @@
         </mxCell>
         <mxCell id="d9HjeUtBZiyGnamziqQK-5" value="SMS Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3WzcstOI2L3zIeHda1PU-1">
           <mxGeometry x="520" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d9HjeUtBZiyGnamziqQK-11" value="" style="endArrow=none;dashed=1;html=1;fontSize=17;strokeWidth=2;" edge="1" parent="3WzcstOI2L3zIeHda1PU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="980" as="sourcePoint" />
+            <mxPoint x="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d9HjeUtBZiyGnamziqQK-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;strokeColor=#000000;fillColor=#FF66FF;align=left;verticalAlign=top;" vertex="1" parent="3WzcstOI2L3zIeHda1PU-1">
+          <mxGeometry x="1260" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d9HjeUtBZiyGnamziqQK-17" value="" style="group" vertex="1" connectable="0" parent="3WzcstOI2L3zIeHda1PU-1">
+          <mxGeometry x="1500" y="270" width="315" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="d9HjeUtBZiyGnamziqQK-16" value="Docker Image (httpd)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="d9HjeUtBZiyGnamziqQK-17">
+          <mxGeometry width="315" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="d9HjeUtBZiyGnamziqQK-12" value="Apache WebServer&amp;nbsp;&lt;br&gt;(SSL Enabled)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#6c8ebf;fillColor=#dae8fc;verticalAlign=top;fontStyle=1" vertex="1" parent="d9HjeUtBZiyGnamziqQK-17">
+          <mxGeometry x="30" y="50" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="d9HjeUtBZiyGnamziqQK-13" value="web-quote" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#000000;fillColor=#EBEBEB;verticalAlign=top;" vertex="1" parent="d9HjeUtBZiyGnamziqQK-17">
+          <mxGeometry x="80" y="110" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d9HjeUtBZiyGnamziqQK-14" value="webquote-conf" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#000000;fillColor=#EBEBEB;verticalAlign=top;" vertex="1" parent="d9HjeUtBZiyGnamziqQK-17">
+          <mxGeometry x="80" y="170" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d9HjeUtBZiyGnamziqQK-20" value="External Firewall" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;strokeColor=#000000;fillColor=#FF66FF;align=center;verticalAlign=middle;horizontal=0;fontStyle=1" vertex="1" parent="3WzcstOI2L3zIeHda1PU-1">
+          <mxGeometry x="1290" y="270" width="120" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
