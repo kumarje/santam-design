@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T08:16:49.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="Nc_lKmt5i4Fj0hJ4jLKz" version="14.9.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-27T08:17:20.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="BUpPOFIYdzYveSPc3pAh" version="14.9.2" type="github" pages="3">
   <diagram id="ffN0SNIZQph5B3WK5DC0" name="HLD">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -245,13 +245,13 @@
         <mxCell id="3WzcstOI2L3zIeHda1PU-14" value="MS SQL Server" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;strokeColor=#000000;fillColor=#EBEBEB;verticalAlign=top;" vertex="1" parent="3WzcstOI2L3zIeHda1PU-1">
           <mxGeometry x="820" y="340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3WzcstOI2L3zIeHda1PU-17" value="ClaimCenter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeColor=#9673a6;verticalAlign=middle;fontStyle=1;fillColor=#e1d5e7;" vertex="1" parent="3WzcstOI2L3zIeHda1PU-1">
+        <mxCell id="3WzcstOI2L3zIeHda1PU-17" value="ClaimCenter - Tomcat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeColor=#9673a6;verticalAlign=middle;fontStyle=1;fillColor=#e1d5e7;" vertex="1" parent="3WzcstOI2L3zIeHda1PU-1">
           <mxGeometry x="500" y="340" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3WzcstOI2L3zIeHda1PU-18" value="BillingCenter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeColor=#9673a6;verticalAlign=middle;fontStyle=1;fillColor=#e1d5e7;" vertex="1" parent="3WzcstOI2L3zIeHda1PU-1">
+        <mxCell id="3WzcstOI2L3zIeHda1PU-18" value="BillingCenter - Tomcat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeColor=#9673a6;verticalAlign=middle;fontStyle=1;fillColor=#e1d5e7;" vertex="1" parent="3WzcstOI2L3zIeHda1PU-1">
           <mxGeometry x="500" y="420" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3WzcstOI2L3zIeHda1PU-19" value="ContactManager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeColor=#9673a6;verticalAlign=middle;fontStyle=1;fillColor=#e1d5e7;" vertex="1" parent="3WzcstOI2L3zIeHda1PU-1">
+        <mxCell id="3WzcstOI2L3zIeHda1PU-19" value="ContactManager -&amp;nbsp; Tomcat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeColor=#9673a6;verticalAlign=middle;fontStyle=1;fillColor=#e1d5e7;" vertex="1" parent="3WzcstOI2L3zIeHda1PU-1">
           <mxGeometry x="500" y="510" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d9HjeUtBZiyGnamziqQK-0" value="3rd Party Service (Dev Instance)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="3WzcstOI2L3zIeHda1PU-1">
