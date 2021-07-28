@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T00:59:11.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="96qvyQVsEigMPIneo_F8" version="14.9.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-28T06:40:31.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="0ZhR1h-ddpTsuDZV5fxu" version="14.9.2" type="github" pages="4">
   <diagram id="ffN0SNIZQph5B3WK5DC0" name="HLD">
-    <mxGraphModel dx="1381" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="ryuziJFEdA7QynmR6Dcf-1" value="Santam Corporate Site" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="60" y="200" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ryuziJFEdA7QynmR6Dcf-2" value="Quick Quote&lt;br&gt;(Embedded iFrame)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#d6b656;fillColor=#fff2cc;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="ryuziJFEdA7QynmR6Dcf-2" value="WebQuote&lt;br&gt;(Embedded iFrame)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#d6b656;fillColor=#fff2cc;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="85" y="255" width="125" height="95" as="geometry" />
         </mxCell>
         <mxCell id="ryuziJFEdA7QynmR6Dcf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontColor=#000000;startArrow=classic;startFill=1;strokeWidth=2;" parent="1" source="ryuziJFEdA7QynmR6Dcf-3" target="ryuziJFEdA7QynmR6Dcf-6" edge="1">
@@ -28,7 +28,7 @@
         <mxCell id="ryuziJFEdA7QynmR6Dcf-3" value="Broker Website" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="60" y="430" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ryuziJFEdA7QynmR6Dcf-4" value="Quick Quote&lt;br&gt;(Embedded iFrame)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="ryuziJFEdA7QynmR6Dcf-4" value="WebQuote&lt;br&gt;(Embedded iFrame)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="85" y="485" width="125" height="95" as="geometry" />
         </mxCell>
         <mxCell id="ryuziJFEdA7QynmR6Dcf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;startArrow=classic;startFill=1;strokeWidth=2;" parent="1" source="ryuziJFEdA7QynmR6Dcf-6" target="ryuziJFEdA7QynmR6Dcf-11" edge="1">
@@ -39,7 +39,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-jPc1gzVdSCIqic5vzx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="ryuziJFEdA7QynmR6Dcf-6" target="ryuziJFEdA7QynmR6Dcf-18">
+        <mxCell id="7-jPc1gzVdSCIqic5vzx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;startArrow=classic;startFill=1;strokeWidth=2;" parent="1" source="ryuziJFEdA7QynmR6Dcf-6" target="ryuziJFEdA7QynmR6Dcf-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ryuziJFEdA7QynmR6Dcf-6" value="Apache WebServer" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;verticalAlign=top;fontSize=15;fontStyle=1" parent="1" vertex="1">
@@ -51,10 +51,10 @@
         <mxCell id="ryuziJFEdA7QynmR6Dcf-8" value="Reverse Proxy" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#000000;strokeColor=#ED3BED;fillColor=#8AC5F2;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="515" y="425" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7-jPc1gzVdSCIqic5vzx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="ryuziJFEdA7QynmR6Dcf-11" target="ryuziJFEdA7QynmR6Dcf-25">
+        <mxCell id="7-jPc1gzVdSCIqic5vzx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;startArrow=classic;startFill=1;strokeWidth=2;" parent="1" source="ryuziJFEdA7QynmR6Dcf-11" target="ryuziJFEdA7QynmR6Dcf-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7-jPc1gzVdSCIqic5vzx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;startArrow=classic;startFill=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ryuziJFEdA7QynmR6Dcf-11" target="ryuziJFEdA7QynmR6Dcf-28">
+        <mxCell id="7-jPc1gzVdSCIqic5vzx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;startArrow=classic;startFill=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ryuziJFEdA7QynmR6Dcf-11" target="ryuziJFEdA7QynmR6Dcf-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010" y="440" as="targetPoint" />
           </mxGeometry>
@@ -328,6 +328,17 @@
         </mxCell>
         <mxCell id="d9HjeUtBZiyGnamziqQK-27" value="ContactManager -&amp;nbsp; Tomcat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeColor=#9673a6;verticalAlign=middle;fontStyle=1;fillColor=#e1d5e7;" vertex="1" parent="3WzcstOI2L3zIeHda1PU-1">
           <mxGeometry x="1890" y="650" width="250" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rhCa1M48JRH4Nqcatlnk" name="Data Flow Diagram">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="3UdSHJBidGnf1Elzxm1T-0" />
+        <mxCell id="3UdSHJBidGnf1Elzxm1T-1" parent="3UdSHJBidGnf1Elzxm1T-0" />
+        <mxCell id="3UdSHJBidGnf1Elzxm1T-4" value="Santam Website" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="3UdSHJBidGnf1Elzxm1T-1">
+          <mxGeometry x="110" y="180" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
