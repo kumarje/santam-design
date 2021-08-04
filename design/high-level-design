@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T11:16:59.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="LmvOyfOEiFETBa7ba7DF" version="14.9.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-08-04T11:17:43.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="qvaJ8tpCeJ_jP42FXHuy" version="14.9.4" type="github" pages="6">
   <diagram id="ffN0SNIZQph5B3WK5DC0" name="HLD">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -625,7 +625,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iWZJ3eIZsYmSygq7E6br" name="Middleware">
-    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1480" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Bvv4lf94a5srB5lUUku1-0" />
         <mxCell id="Bvv4lf94a5srB5lUUku1-1" parent="Bvv4lf94a5srB5lUUku1-0" />
@@ -637,7 +637,7 @@
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-65" value="Render" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Bvv4lf94a5srB5lUUku1-64" vertex="1" connectable="0">
           <mxGeometry x="-0.2235" y="-3" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-2" value="WebQuote - React Files" style="rounded=1;whiteSpace=wrap;html=1;" parent="Bvv4lf94a5srB5lUUku1-1" vertex="1">
