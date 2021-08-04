@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T07:39:34.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="KGJB27hbsG3z3fQgHU6L" version="14.9.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-08-04T07:40:39.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="1fc6YDvLyjAnQ0QZjST7" version="14.9.3" type="github" pages="6">
   <diagram id="ffN0SNIZQph5B3WK5DC0" name="HLD">
     <mxGraphModel dx="1673" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -630,7 +630,15 @@
         <mxCell id="Bvv4lf94a5srB5lUUku1-0" />
         <mxCell id="Bvv4lf94a5srB5lUUku1-1" parent="Bvv4lf94a5srB5lUUku1-0" />
         <mxCell id="Bvv4lf94a5srB5lUUku1-5" value="Spring Boot Middleware" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
-          <mxGeometry x="384.94" y="130" width="320" height="700" as="geometry" />
+          <mxGeometry x="384.94" y="130" width="295.06" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Bvv4lf94a5srB5lUUku1-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Bvv4lf94a5srB5lUUku1-1" source="Bvv4lf94a5srB5lUUku1-2" target="Bvv4lf94a5srB5lUUku1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bvv4lf94a5srB5lUUku1-65" value="Render" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bvv4lf94a5srB5lUUku1-64">
+          <mxGeometry x="-0.2235" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-2" value="WebQuote - React Files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
           <mxGeometry x="424.94" y="190" width="190" height="50" as="geometry" />
@@ -646,12 +654,7 @@
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-8" value="/quote/quote" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bvv4lf94a5srB5lUUku1-7">
           <mxGeometry x="0.3652" y="3" relative="1" as="geometry">
-            <mxPoint x="-50" y="-171" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bvv4lf94a5srB5lUUku1-33" value="/address/lookup" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bvv4lf94a5srB5lUUku1-7">
-          <mxGeometry x="0.6316" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="50" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="Bvv4lf94a5srB5lUUku1-1" source="Bvv4lf94a5srB5lUUku1-6" target="Bvv4lf94a5srB5lUUku1-15">
@@ -720,14 +723,14 @@
           <mxGeometry x="464.94000000000005" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-18" value="GRIP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
-          <mxGeometry x="850" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="559" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Bvv4lf94a5srB5lUUku1-1" source="Bvv4lf94a5srB5lUUku1-19" target="Bvv4lf94a5srB5lUUku1-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-26" value="SOAP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bvv4lf94a5srB5lUUku1-21">
           <mxGeometry x="-0.1893" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="47" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-19" value="GRIP REST" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
@@ -738,14 +741,14 @@
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-29" value="SOAP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bvv4lf94a5srB5lUUku1-24">
           <mxGeometry x="0.4481" y="1" relative="1" as="geometry">
-            <mxPoint x="-111" y="-19" as="offset" />
+            <mxPoint x="-47" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-22" value="SMS Service" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
           <mxGeometry x="464.94000000000005" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-23" value="GRIP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
-          <mxGeometry x="850" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-49" value="Application Gateway Token in Application Context" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
           <mxGeometry x="594.94" y="260" width="70" height="90" as="geometry" />
