@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T07:37:56.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="TUi2FC-x_BPBq7KVPFoZ" version="14.9.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-08-04T07:39:34.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="KGJB27hbsG3z3fQgHU6L" version="14.9.3" type="github" pages="6">
   <diagram id="ffN0SNIZQph5B3WK5DC0" name="HLD">
     <mxGraphModel dx="1673" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -630,16 +630,16 @@
         <mxCell id="Bvv4lf94a5srB5lUUku1-0" />
         <mxCell id="Bvv4lf94a5srB5lUUku1-1" parent="Bvv4lf94a5srB5lUUku1-0" />
         <mxCell id="Bvv4lf94a5srB5lUUku1-5" value="Spring Boot Middleware" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
-          <mxGeometry x="360" y="130" width="320" height="700" as="geometry" />
+          <mxGeometry x="384.94" y="130" width="320" height="700" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-2" value="WebQuote - React Files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
-          <mxGeometry x="400" y="190" width="190" height="50" as="geometry" />
+          <mxGeometry x="424.94" y="190" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-3" value="PC - Edge API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
           <mxGeometry x="910" y="210" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-4" value="Proxy REST API" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
-          <mxGeometry x="390" y="270" width="220" height="530" as="geometry" />
+          <mxGeometry x="414.94000000000005" y="270" width="220" height="530" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Bvv4lf94a5srB5lUUku1-1" source="Bvv4lf94a5srB5lUUku1-6" target="Bvv4lf94a5srB5lUUku1-9">
           <mxGeometry relative="1" as="geometry" />
@@ -683,7 +683,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bvv4lf94a5srB5lUUku1-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="Bvv4lf94a5srB5lUUku1-1" source="Bvv4lf94a5srB5lUUku1-6" target="Bvv4lf94a5srB5lUUku1-56">
+        <mxCell id="Bvv4lf94a5srB5lUUku1-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Bvv4lf94a5srB5lUUku1-1" source="Bvv4lf94a5srB5lUUku1-6" target="Bvv4lf94a5srB5lUUku1-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-61" value="REST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bvv4lf94a5srB5lUUku1-59">
@@ -703,10 +703,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-9" value="QuoteHandler (/quote/quote)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
-          <mxGeometry x="425" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="464.94000000000005" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-12" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
-          <mxGeometry x="425" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="464.94000000000005" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.468;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Bvv4lf94a5srB5lUUku1-1" source="Bvv4lf94a5srB5lUUku1-15" target="Bvv4lf94a5srB5lUUku1-3">
           <mxGeometry relative="1" as="geometry" />
@@ -717,7 +717,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-15" value="AddressHandler&lt;br&gt;(/address/lookup)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
-          <mxGeometry x="425" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="464.94000000000005" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-18" value="GRIP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
           <mxGeometry x="850" y="540" width="120" height="60" as="geometry" />
@@ -731,7 +731,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-19" value="GRIP REST" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
-          <mxGeometry x="425" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="464.94000000000005" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Bvv4lf94a5srB5lUUku1-1" source="Bvv4lf94a5srB5lUUku1-22" target="Bvv4lf94a5srB5lUUku1-23">
           <mxGeometry relative="1" as="geometry" />
@@ -742,23 +742,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-22" value="SMS Service" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
-          <mxGeometry x="425" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="464.94000000000005" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-23" value="GRIP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
           <mxGeometry x="850" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-49" value="Application Gateway Token in Application Context" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
-          <mxGeometry x="570" y="260" width="70" height="90" as="geometry" />
+          <mxGeometry x="594.94" y="260" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Bvv4lf94a5srB5lUUku1-1" source="Bvv4lf94a5srB5lUUku1-56" target="Bvv4lf94a5srB5lUUku1-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="485" y="880" />
+              <mxPoint x="520" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-56" value="Google Service" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
-          <mxGeometry x="425" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="464.94000000000005" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bvv4lf94a5srB5lUUku1-57" value="Google Service" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Bvv4lf94a5srB5lUUku1-1">
           <mxGeometry x="55" y="850" width="120" height="60" as="geometry" />
