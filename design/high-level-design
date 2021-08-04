@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T08:23:44.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="ToDD-LTrmqP5gYRPW1r-" version="14.9.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-08-04T09:29:27.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="QRGobuf-IbEvBkV6UX8O" version="14.9.3" type="github" pages="6">
   <diagram id="ffN0SNIZQph5B3WK5DC0" name="HLD">
     <mxGraphModel dx="1673" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -625,7 +625,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iWZJ3eIZsYmSygq7E6br" name="Middleware">
-    <mxGraphModel dx="1185" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Bvv4lf94a5srB5lUUku1-0" />
         <mxCell id="Bvv4lf94a5srB5lUUku1-1" parent="Bvv4lf94a5srB5lUUku1-0" />
